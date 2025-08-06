@@ -12,7 +12,7 @@ Draw.loadPlugin(function(ui) {
 
     // Adds menu
     var menuElement = ui.menubar.addMenu('Tool Resize', function(menu, parent) {
-        ui.menus.addMenuItems(menu, 'resize');
+        ui.menus.addMenuItem(menu, 'resize');
     });
 
     menuElement.className = 'geItem';
