@@ -48,9 +48,11 @@ Draw.loadPlugin(function(ui) {
     }
 
     // Adds menu
-    ui.menubar.addMenu('SecurIT', function(menu, parent) {
+    var menuElement = ui.menubar.addMenu('SecurIT', function(menu, parent) {
         ui.menus.addMenuItem(menu, 'sitrefont');
     });
+
+    menuElement.className = 'geItem';
 
     // Add sidebar Stencil
     ui.sidebar.addStencilPalette('flowchart', 'SecurIT', 'https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-SecurIT/stencil-securit.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
