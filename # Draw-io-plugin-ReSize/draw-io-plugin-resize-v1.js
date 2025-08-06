@@ -11,9 +11,11 @@ Draw.loadPlugin(function(ui) {
     mxResources.parse('resize=Resize');
 
     // Adds menu
-    ui.menubar.addMenu('Tool Resize', function(menu, parent) {
-        ui.menus.addMenuItems(menu, ['-', 'resize']);
+    var menuElement = ui.menubar.addMenu('Tool Resize', function(menu, parent) {
+        ui.menus.addMenuItems(menu, 'resize');
     });
+
+    menuElement.className = 'geItem';
 
     // Adds actions
     ui.actions.addAction('resize', function() {

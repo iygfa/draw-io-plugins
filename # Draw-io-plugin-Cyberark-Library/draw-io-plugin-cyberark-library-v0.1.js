@@ -7,17 +7,18 @@ Draw.loadPlugin(function(ui) {
     var graph = ui.editor.graph;
 
     // Adds resource for action
-    mxResources.parse('lib-cyberark=Load CyberArk Librarys');
+    mxResources.parse('lib-cyberark=Load CyberArk Library');
 
     if (ui.editor.isChromelessView()) {
         return;
     }
 
     // Adds menu
-    ui.menubar.addMenu('Librarys', function(menu, parent) {
+    var menuElement = ui.menubar.addMenu('Library', function(menu, parent) {
         ui.menus.addMenuItem(menu, 'lib-cyberark');
     });
-
+    
+    menuElement.className = 'geItem';
 
     // Function to load Library From File.
     function LoadNewLibrary(fileUrl) {
