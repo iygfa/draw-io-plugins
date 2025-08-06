@@ -31,9 +31,11 @@ Draw.loadPlugin(function(ui) {
     }
 
     // Adds menu
-    ui.menubar.addMenu('Tool Reorder', function(menu, parent) {
+    var menuElement = ui.menubar.addMenu('Tool Reorder', function(menu, parent) {
         ui.menus.addMenuItem(menu, 'reorder');
     });
+
+    menuElement.className = 'geItem';
 
     // Adds actions
     ui.actions.addAction('reorder', function() {
