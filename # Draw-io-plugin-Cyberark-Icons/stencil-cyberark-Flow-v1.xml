@@ -11,7 +11,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/attack_chain_1.svg?sanitize=true" x="0.00" y="0.00" w="816" h="559"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/attack_chain_1.svg?sanitize=true" x="0.00" y="0.00" w="816" h="559"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_attack_chain_2" w="816" h="559" aspect="variable">
@@ -26,7 +26,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/attack_chain_2.svg?sanitize=true" x="0.00" y="0.00" w="816" h="559"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/attack_chain_2.svg?sanitize=true" x="0.00" y="0.00" w="816" h="559"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_epm_deploy_graphic" w="597" h="578" aspect="variable">
@@ -41,7 +41,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/epm_deploy_graphic.svg?sanitize=true" x="0.00" y="0.00" w="597" h="578"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/epm_deploy_graphic.svg?sanitize=true" x="0.00" y="0.00" w="597" h="578"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_epm_deploy_sass_graphic" w="533" h="573" aspect="variable">
@@ -56,7 +56,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/epm_deploy_sass_graphic.svg?sanitize=true" x="0.00" y="0.00" w="533" h="573"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/epm_deploy_sass_graphic.svg?sanitize=true" x="0.00" y="0.00" w="533" h="573"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_epm_endpoint_graphic" w="601" h="230" aspect="variable">
@@ -71,7 +71,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/epm_endpoint_graphic.svg?sanitize=true" x="0.00" y="0.00" w="601" h="230"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Flow/epm_endpoint_graphic.svg?sanitize=true" x="0.00" y="0.00" w="601" h="230"/>
 		</foreground>
 	</shape>
 </shapes>

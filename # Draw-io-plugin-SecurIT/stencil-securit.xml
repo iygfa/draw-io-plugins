@@ -11,7 +11,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-SecurIT/securit.huisstyle.images/sit-logo.svg?sanitize=true" x="0.00" y="0.00" w="263" h="48"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/sit-logo.svg?sanitize=true" x="0.00" y="0.00" w="263" h="48"/>
 		</foreground>
 	</shape>
 
@@ -27,7 +27,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-SecurIT/securit.huisstyle.images/sit-header.svg?sanitize=true" x="-30.00" y="-40.00" w="850" h="171"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/sit-header.svg?sanitize=true" x="-30.00" y="-40.00" w="850" h="171"/>
 		</foreground>
 	</shape>
 
@@ -43,7 +43,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-SecurIT/securit.huisstyle.images/sit-footer.svg?sanitize=true" x="0.00" y="0.00" w="810" h="179"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/sit-footer.svg?sanitize=true" x="0.00" y="0.00" w="810" h="179"/>
 		</foreground>
 	</shape>
 

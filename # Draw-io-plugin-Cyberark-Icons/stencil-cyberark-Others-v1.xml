@@ -11,7 +11,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/arrow_bullseye.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/arrow_bullseye.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_authorize" w="66" h="66" aspect="variable">
@@ -26,7 +26,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/authorize.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/authorize.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_banks" w="66" h="66" aspect="variable">
@@ -41,7 +41,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/banks.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/banks.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_brain_gear" w="56" h="66" aspect="variable">
@@ -56,7 +56,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/brain_gear.svg?sanitize=true" x="0.00" y="0.00" w="56" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/brain_gear.svg?sanitize=true" x="0.00" y="0.00" w="56" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cert" w="88" h="66" aspect="variable">
@@ -71,7 +71,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cert.svg?sanitize=true" x="0.00" y="0.00" w="88" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cert.svg?sanitize=true" x="0.00" y="0.00" w="88" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_countries" w="66" h="66" aspect="variable">
@@ -86,7 +86,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/countries.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/countries.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cube_blue" w="66" h="66" aspect="variable">
@@ -101,7 +101,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_blue.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_blue.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cube_green" w="66" h="66" aspect="variable">
@@ -116,7 +116,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_green.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_green.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cube_grey" w="66" h="66" aspect="variable">
@@ -131,7 +131,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_grey.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_grey.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cube_orange" w="66" h="66" aspect="variable">
@@ -146,7 +146,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_orange.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_orange.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cube_yellow" w="66" h="66" aspect="variable">
@@ -161,7 +161,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_yellow.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cube_yellow.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_customers_stars" w="57" h="66" aspect="variable">
@@ -176,7 +176,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/customers_stars.svg?sanitize=true" x="0.00" y="0.00" w="57" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/customers_stars.svg?sanitize=true" x="0.00" y="0.00" w="57" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_customers" w="65" h="66" aspect="variable">
@@ -191,7 +191,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/customers.svg?sanitize=true" x="0.00" y="0.00" w="65" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/customers.svg?sanitize=true" x="0.00" y="0.00" w="65" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_cyber_cecurity_professional" w="60" h="66" aspect="variable">
@@ -206,7 +206,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cyber_cecurity_professional.svg?sanitize=true" x="0.00" y="0.00" w="60" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/cyber_cecurity_professional.svg?sanitize=true" x="0.00" y="0.00" w="60" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_deliver_scale" w="66" h="66" aspect="variable">
@@ -221,7 +221,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/deliver_scale.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/deliver_scale.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_energy" w="44" h="66" aspect="variable">
@@ -236,7 +236,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/energy.svg?sanitize=true" x="0.00" y="0.00" w="44" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/energy.svg?sanitize=true" x="0.00" y="0.00" w="44" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_evd_backup" w="107" h="67" aspect="variable">
@@ -251,7 +251,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/evd_backup.svg?sanitize=true" x="0.00" y="0.00" w="107" h="67"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/evd_backup.svg?sanitize=true" x="0.00" y="0.00" w="107" h="67"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_extensive_partner" w="66" h="66" aspect="variable">
@@ -266,7 +266,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/extensive_partner.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/extensive_partner.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_fortune_500" w="67" h="66" aspect="variable">
@@ -281,7 +281,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/fortune_500.svg?sanitize=true" x="0.00" y="0.00" w="67" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/fortune_500.svg?sanitize=true" x="0.00" y="0.00" w="67" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_global_2000" w="66" h="66" aspect="variable">
@@ -296,7 +296,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/global_2000.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/global_2000.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_help_wanted" w="74" h="66" aspect="variable">
@@ -311,7 +311,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/help_wanted.svg?sanitize=true" x="0.00" y="0.00" w="74" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/help_wanted.svg?sanitize=true" x="0.00" y="0.00" w="74" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_insurance" w="57" h="66" aspect="variable">
@@ -326,7 +326,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/insurance.svg?sanitize=true" x="0.00" y="0.00" w="57" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/insurance.svg?sanitize=true" x="0.00" y="0.00" w="57" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_it_services" w="45" h="66" aspect="variable">
@@ -341,7 +341,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/it_services.svg?sanitize=true" x="0.00" y="0.00" w="45" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/it_services.svg?sanitize=true" x="0.00" y="0.00" w="45" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_lightbulb" w="63" h="66" aspect="variable">
@@ -356,7 +356,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/lightbulb.svg?sanitize=true" x="0.00" y="0.00" w="63" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/lightbulb.svg?sanitize=true" x="0.00" y="0.00" w="63" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_manufacturing" w="57" h="66" aspect="variable">
@@ -371,7 +371,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/manufacturing.svg?sanitize=true" x="0.00" y="0.00" w="57" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/manufacturing.svg?sanitize=true" x="0.00" y="0.00" w="57" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_network_devices" w="70" h="66" aspect="variable">
@@ -386,7 +386,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/network_devices.svg?sanitize=true" x="0.00" y="0.00" w="70" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/network_devices.svg?sanitize=true" x="0.00" y="0.00" w="70" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_partner_network" w="70" h="66" aspect="variable">
@@ -401,7 +401,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/partner_network.svg?sanitize=true" x="0.00" y="0.00" w="70" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/partner_network.svg?sanitize=true" x="0.00" y="0.00" w="70" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_scalability" w="66" h="66" aspect="variable">
@@ -416,7 +416,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/scalability.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/scalability.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_secrets_management" w="68" h="66" aspect="variable">
@@ -431,7 +431,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/secrets_management.svg?sanitize=true" x="0.00" y="0.00" w="68" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/secrets_management.svg?sanitize=true" x="0.00" y="0.00" w="68" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_telecom" w="66" h="66" aspect="variable">
@@ -446,7 +446,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/telecom.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/telecom.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_website_webapps" w="66" h="66" aspect="variable">
@@ -461,7 +461,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/website_webapps.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/website_webapps.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_windows" w="66" h="66" aspect="variable">
@@ -476,7 +476,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/windows.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Others/windows.svg?sanitize=true" x="0.00" y="0.00" w="66" h="66"/>
 		</foreground>
 	</shape>
 </shapes>

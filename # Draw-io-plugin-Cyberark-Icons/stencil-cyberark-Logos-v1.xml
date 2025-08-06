@@ -11,7 +11,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/ca_conjur.svg?sanitize=true" x="0.00" y="0.00" w="199" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/ca_conjur.svg?sanitize=true" x="0.00" y="0.00" w="199" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_ca_logo" w="59" h="66" aspect="variable">
@@ -26,7 +26,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/ca_logo.svg?sanitize=true" x="0.00" y="0.00" w="59" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/ca_logo.svg?sanitize=true" x="0.00" y="0.00" w="59" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_conjur" w="196" h="66" aspect="variable">
@@ -41,7 +41,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/conjur.svg?sanitize=true" x="0.00" y="0.00" w="196" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/conjur.svg?sanitize=true" x="0.00" y="0.00" w="196" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_summon" w="45" h="66" aspect="variable">
@@ -56,7 +56,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/summon.svg?sanitize=true" x="0.00" y="0.00" w="45" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/Logos/summon.svg?sanitize=true" x="0.00" y="0.00" w="45" h="66"/>
 		</foreground>
 	</shape>
 </shapes>
