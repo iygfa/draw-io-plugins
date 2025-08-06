@@ -15,6 +15,15 @@ do
    url=`urlencode $line`
    label=$(basename $(dirname $line))
 
+   # tweak the url for extract username/repo/branch/directorty/filename
+   # sed로 캡처
+   # \1:user, \2:repo, \3:branch, \4:path, \5:filename
+   echo "$url" | sed -E 's|https://raw.githubusercontent.com/([^/]+)/([^/]+)/([^/]+)/(.*/)([^/]+)\.svg|\1 \2 \3 \4 \5|'
+
+   # 배열에 담아 쓰기
+   read -r user repo branch path imgname <<< \
+   $(echo "$url" | sed -E 's|https://raw.githubusercontent.com/([^/]+)/([^/]+)/([^/]+)/(.*/)([^/]+)\.svg|\1 \2 \3 \4 \5|')
+
 cat >>$filename <<EOL
 	<shape name="k8_icons_${item}_${label}" w="64" h="64" aspect="variable">
 		<connections>
@@ -28,7 +37,7 @@ cat >>$filename <<EOL
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=${url}%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/${user}/${repo}@${branch}/${path}/${imgname}.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 EOL

@@ -9,7 +9,7 @@ Draw.loadPlugin(function(ui) {
     }
 
     // Add sidebar Stencil
-    ui.sidebar.addStencilPalette('flowchart', 'Security', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Security-Icons/stencil-security.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
+    ui.sidebar.addStencilPalette('flowchart', 'Security', 'https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Security-Icons/stencil-security.xml?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Collapses default sidebar entry and inserts this before
     var c = ui.sidebar.container;

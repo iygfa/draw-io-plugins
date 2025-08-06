@@ -11,7 +11,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fapi.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/control_plane_components/labeled/api.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_c-c-m_labeled" w="64" h="64" aspect="variable">
@@ -26,7 +26,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fc-c-m.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/control_plane_components/labeled/c-c-m.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_c-m_labeled" w="64" h="64" aspect="variable">
@@ -41,7 +41,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fc-m.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/control_plane_components/labeled/c-m.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_k-proxy_labeled" w="64" h="64" aspect="variable">
@@ -56,7 +56,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fk-proxy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/control_plane_components/labeled/k-proxy.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_kubelet_labeled" w="64" h="64" aspect="variable">
@@ -71,7 +71,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fkubelet.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/control_plane_components/labeled/kubelet.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sched_labeled" w="64" h="64" aspect="variable">
@@ -86,7 +86,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fcontrol_plane_components%2Flabeled%2Fsched.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/control_plane_components/labeled/sched.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_etcd_labeled" w="64" h="64" aspect="variable">
@@ -101,7 +101,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fetcd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/infrastructure_components/labeled/etcd.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_master_labeled" w="64" h="64" aspect="variable">
@@ -116,7 +116,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fmaster.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/infrastructure_components/labeled/master.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_node_labeled" w="64" h="64" aspect="variable">
@@ -131,7 +131,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Flabeled%2Fnode.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/infrastructure_components/labeled/node.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_etcd_unlabeled" w="64" h="64" aspect="variable">
@@ -146,7 +146,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fetcd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/infrastructure_components/unlabeled/etcd.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_master_unlabeled" w="64" h="64" aspect="variable">
@@ -161,7 +161,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fmaster.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/infrastructure_components/unlabeled/master.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_node_unlabeled" w="64" h="64" aspect="variable">
@@ -176,7 +176,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Finfrastructure_components%2Funlabeled%2Fnode.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/infrastructure_components/unlabeled/node.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_c-role_labeled" w="64" h="64" aspect="variable">
@@ -191,7 +191,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fc-role.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/c-role.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_cm_labeled" w="64" h="64" aspect="variable">
@@ -206,7 +206,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcm.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/cm.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_crb_labeled" w="64" h="64" aspect="variable">
@@ -221,7 +221,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcrb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/crb.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_crd_labeled" w="64" h="64" aspect="variable">
@@ -236,7 +236,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcrd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/crd.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_cronjob_labeled" w="64" h="64" aspect="variable">
@@ -251,7 +251,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fcronjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/cronjob.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_deploy_labeled" w="64" h="64" aspect="variable">
@@ -266,7 +266,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fdeploy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/deploy.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ds_labeled" w="64" h="64" aspect="variable">
@@ -281,7 +281,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fds.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/ds.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ep_labeled" w="64" h="64" aspect="variable">
@@ -296,7 +296,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fep.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/ep.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_group_labeled" w="64" h="64" aspect="variable">
@@ -311,7 +311,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fgroup.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/group.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_hpa_labeled" w="64" h="64" aspect="variable">
@@ -326,7 +326,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fhpa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/hpa.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ing_labeled" w="64" h="64" aspect="variable">
@@ -341,7 +341,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fing.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/ing.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_job_labeled" w="64" h="64" aspect="variable">
@@ -356,7 +356,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/job.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_limits_labeled" w="64" h="64" aspect="variable">
@@ -371,7 +371,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Flimits.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/limits.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_netpol_labeled" w="64" h="64" aspect="variable">
@@ -386,7 +386,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fnetpol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/netpol.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ns_labeled" w="64" h="64" aspect="variable">
@@ -401,7 +401,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fns.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/ns.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_pod_labeled" w="64" h="64" aspect="variable">
@@ -416,7 +416,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpod.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/pod.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_psp_labeled" w="64" h="64" aspect="variable">
@@ -431,7 +431,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpsp.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/psp.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_pv_labeled" w="64" h="64" aspect="variable">
@@ -446,7 +446,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpv.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/pv.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_pvc_labeled" w="64" h="64" aspect="variable">
@@ -461,7 +461,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fpvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/pvc.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_quota_labeled" w="64" h="64" aspect="variable">
@@ -476,7 +476,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fquota.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/quota.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_rb_labeled" w="64" h="64" aspect="variable">
@@ -491,7 +491,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/rb.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_role_labeled" w="64" h="64" aspect="variable">
@@ -506,7 +506,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frole.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/role.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_rs_labeled" w="64" h="64" aspect="variable">
@@ -521,7 +521,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Frs.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/rs.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sa_labeled" w="64" h="64" aspect="variable">
@@ -536,7 +536,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/sa.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sc_labeled" w="64" h="64" aspect="variable">
@@ -551,7 +551,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/sc.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_secret_labeled" w="64" h="64" aspect="variable">
@@ -566,7 +566,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsecret.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/secret.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sts_labeled" w="64" h="64" aspect="variable">
@@ -581,7 +581,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsts.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/sts.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_svc_labeled" w="64" h="64" aspect="variable">
@@ -596,7 +596,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fsvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/svc.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_user_labeled" w="64" h="64" aspect="variable">
@@ -611,7 +611,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fuser.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/user.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_vol_labeled" w="64" h="64" aspect="variable">
@@ -626,7 +626,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Flabeled%2Fvol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/labeled/vol.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_c-role_unlabeled" w="64" h="64" aspect="variable">
@@ -641,7 +641,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fc-role.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/c-role.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_cm_unlabeled" w="64" h="64" aspect="variable">
@@ -656,7 +656,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcm.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/cm.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_crb_unlabeled" w="64" h="64" aspect="variable">
@@ -671,7 +671,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcrb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/crb.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_crd_unlabeled" w="64" h="64" aspect="variable">
@@ -686,7 +686,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcrd.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/crd.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_cronjob_unlabeled" w="64" h="64" aspect="variable">
@@ -701,7 +701,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fcronjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/cronjob.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_deploy_unlabeled" w="64" h="64" aspect="variable">
@@ -716,7 +716,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fdeploy.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/deploy.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ds_unlabeled" w="64" h="64" aspect="variable">
@@ -731,7 +731,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fds.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/ds.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ep_unlabeled" w="64" h="64" aspect="variable">
@@ -746,7 +746,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fep.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/ep.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_group_unlabeled" w="64" h="64" aspect="variable">
@@ -761,7 +761,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fgroup.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/group.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_hpa_unlabeled" w="64" h="64" aspect="variable">
@@ -776,7 +776,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fhpa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/hpa.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ing_unlabeled" w="64" h="64" aspect="variable">
@@ -791,7 +791,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fing.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/ing.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_job_unlabeled" w="64" h="64" aspect="variable">
@@ -806,7 +806,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fjob.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/job.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_limits_unlabeled" w="64" h="64" aspect="variable">
@@ -821,7 +821,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Flimits.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/limits.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_netpol_unlabeled" w="64" h="64" aspect="variable">
@@ -836,7 +836,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fnetpol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/netpol.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_ns_unlabeled" w="64" h="64" aspect="variable">
@@ -851,7 +851,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fns.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/ns.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_pod_unlabeled" w="64" h="64" aspect="variable">
@@ -866,7 +866,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpod.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/pod.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_psp_unlabeled" w="64" h="64" aspect="variable">
@@ -881,7 +881,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpsp.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/psp.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_pv_unlabeled" w="64" h="64" aspect="variable">
@@ -896,7 +896,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpv.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/pv.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_pvc_unlabeled" w="64" h="64" aspect="variable">
@@ -911,7 +911,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fpvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/pvc.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_quota_unlabeled" w="64" h="64" aspect="variable">
@@ -926,7 +926,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fquota.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/quota.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_rb_unlabeled" w="64" h="64" aspect="variable">
@@ -941,7 +941,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frb.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/rb.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_role_unlabeled" w="64" h="64" aspect="variable">
@@ -956,7 +956,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frole.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/role.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_rs_unlabeled" w="64" h="64" aspect="variable">
@@ -971,7 +971,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Frs.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/rs.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sa_unlabeled" w="64" h="64" aspect="variable">
@@ -986,7 +986,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsa.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/sa.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sc_unlabeled" w="64" h="64" aspect="variable">
@@ -1001,7 +1001,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/sc.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_secret_unlabeled" w="64" h="64" aspect="variable">
@@ -1016,7 +1016,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsecret.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/secret.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_sts_unlabeled" w="64" h="64" aspect="variable">
@@ -1031,7 +1031,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsts.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/sts.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_svc_unlabeled" w="64" h="64" aspect="variable">
@@ -1046,7 +1046,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fsvc.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/svc.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_user_unlabeled" w="64" h="64" aspect="variable">
@@ -1061,7 +1061,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fuser.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/user.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 	<shape name="k8_icons_vol_unlabeled" w="64" h="64" aspect="variable">
@@ -1076,7 +1076,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkubernetes%2Fcommunity%2Fmaster%2Ficons%2Fsvg%2Fresources%2Funlabeled%2Fvol.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="64" h="64"/>
+			<image src="https://cdn.jsdelivr.net/gh/kubernetes/community@master/icons/svg/resources/unlabeled/vol.svg?sanitize=true" x="0.00" y="0.00" w="64" h="64"/>
 		</foreground>
 	</shape>
 </shapes>

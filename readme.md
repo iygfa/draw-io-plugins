@@ -30,7 +30,7 @@ This plugin enables u to resize a object within draw.io. To use it, select the o
   <img width="40%" src="./readme.images/example-draw-io-plugin-resize.gif">
 </p>
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReSize/draw-io-plugin-resize-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-ReSize/draw-io-plugin-resize-v1.js?maxAge=10
 
 ## 1.2. ReOrder Childeren
 This plugin enables u to reorder childeren of a root object within draw.io. To use it, select the root cell with the childeren you want to reoder, then select: `Tool Reorder` -> `Reorder`. All the childeren will now be Reodered under the root cell.
@@ -39,7 +39,7 @@ This plugin enables u to reorder childeren of a root object within draw.io. To u
   <img width="40%" src="./readme.images/example-draw-io-plugin-reorder-childs.gif">
 </p>
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-ReOrder/draw-io-plugin-reorder-childeren-v3.js?maxAge=10
 
 ## 1.3. Google Fonts
 <!-- https://github.com/jgraph/drawio/issues/577 -->
@@ -47,7 +47,7 @@ This plugin enables you the use of all the google fonts within draw.io.
 
 I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But you can load more if u want by entering the name of the font family in the `Font` -> `Custom...` option.
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
   
   - Will do:
     - Install all Google Fonts into Browser
@@ -57,7 +57,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
     - Roboto
     - Open Sans
 
-    For the complete list of fonts: [List of Google Fonts](https://github.com/CoolZeroNL/draw-io-plugins/blob/master/%23%20Draw-io-plugin-Google-Fonts/googleFonts.json) or [fonts.google.com](https://fonts.google.com)   
+    For the complete list of fonts: [List of Google Fonts](https://github.com/iygfa/draw-io-plugins/blob/master/%23%20Draw-io-plugin-Google-Fonts/googleFonts.json) or [fonts.google.com](https://fonts.google.com)   
     ** note that not all the fonts will work in draw.io.. like: Libre Barcode
 
     <p align="center">
@@ -71,7 +71,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 - more information: https://yacdn.org/serve/https://gist.githubusercontent.com/lindapadilla/5974598/raw/0c80ac0f4d03234bffb50cb14eda0a9b23f6e07a/customizeBPMN
 -->
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/draw-io-plugin-securit-huisstyle-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-SecurIT/draw-io-plugin-securit-huisstyle-v1.js?maxAge=10
 
   - Will Do:
     - Add Stencil: 
@@ -89,11 +89,11 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 ## 1.5. Kubernetes K8 Icons
 
 <!-- Load SVG from RAW by `?sanitize=true` -->
-<!-- https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?sanitize=true -->
+<!-- https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-SecurIT/securit.huisstyle.images/security_isp-server.svg?sanitize=true -->
 
 <!-- https://github.com/jgraph/drawio/issues/569 -->
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-K8-Icons/draw-io-plugin-k8-icons-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-K8-Icons/draw-io-plugin-k8-icons-v1.js?maxAge=10
 
   - Will Do:
     - Add Stencil: 
@@ -105,7 +105,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 
 ## 1.6. Security Icons
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Security-Icons/draw-io-plugin-security-icons-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Security-Icons/draw-io-plugin-security-icons-v1.js?maxAge=10
 
   - Will Do:
     - Add Stencil: 
@@ -117,8 +117,8 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 <!-- 
  Cyberark Icons
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v1.js?maxAge=10
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v2.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v2.js?maxAge=10
 
   - Will Do:
     - Add Stencil: 
@@ -130,7 +130,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 
 ## 1.7. Cyberark Library
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/draw-io-plugin-cyberark-library-v0.1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Library/draw-io-plugin-cyberark-library-v0.1.js?maxAge=10
 
   - Will Do:
     - Add Menu: Librarys
@@ -147,7 +147,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 
 ## 1.8. Explore (WIP)
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Explore/draw-io-plugin-explore-v1.js?maxAge=10
 
   - Todo:
     - [] add link as url in cell ( is now as tooltip )
@@ -155,7 +155,7 @@ I have added to the custom fonts "Roboto", "Open Sans" & "Libre Franklin". But y
 # 2. Install Plugin Within Draw-io
 
 ## 2.1. Use of CORS Proxy:
-Because the plugins are been included within draw.io the browser will block this, because the plugin is not on the same domain as draw.io is. So the browser will give the next error: `Refused to execute script from 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/draw-io-plugin-resize.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.` 
+Because the plugins are been included within draw.io the browser will block this, because the plugin is not on the same domain as draw.io is. So the browser will give the next error: `Refused to execute script from 'https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/draw-io-plugin-resize.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.` 
 
 To fix this u need to use a CORS proxy server, and the urls are:
 

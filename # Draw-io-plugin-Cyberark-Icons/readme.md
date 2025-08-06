@@ -11,7 +11,7 @@ Please use the Library !!
   <img width="50%" src="./readme.images/00-cyberark-all.png">
 </p>
 
-URL for Draw.IO: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v1.js?maxAge=10
+URL for Draw.IO: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/draw-io-plugin-cyberark-icons-v1.js?maxAge=10
 
 # Sorting
 

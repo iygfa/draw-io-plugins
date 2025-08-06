@@ -68,11 +68,11 @@ Now you see a extra menu item `Tool XX`. As a sub item the plugin functionality 
   <img width="50%" src="../readme.images/07-menu.png">
 </p>
 
-see: [https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online](https://github.com/CoolZeroNL/draw-io-plugins#22-installation-steps-drawio-online)
+see: [https://github.com/iygfa/draw-io-plugins#22-installation-steps-drawio-online](https://github.com/iygfa/draw-io-plugins#22-installation-steps-drawio-online)
 
 ### 2.1.1. Plugin info:
 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/draw-io-plugin-cyberark-library-v0.1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Library/draw-io-plugin-cyberark-library-v0.1.js?maxAge=10
 
   - Will Do:
     - Add Menu: Librarys
@@ -117,35 +117,35 @@ See also: https://desk.draw.io/support/solutions/articles/16000067790
 https://github.com/jgraph/drawio-libs/tree/master/
 
 ## 3.1. library-cyberark-Components-v1
-- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Components-v1.xml
+- Library URL: https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Components-v1.xml
 
 <p align="center">
     <img width="50%" src="./readme.images/lib-components.png">
 </p>
 
 ## 3.2. library-cyberark-Levels-v1
-- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Levels-v1.xml  
+- Library URL: https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Levels-v1.xml  
 
 <p align="center">
     <img width="50%" src="./readme.images/lib-levels.png">
 </p>
 
 ## 3.3. library-cyberark-Logos-v1
-- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Logos-v1.xml  
+- Library URL: https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Logos-v1.xml  
 
 <p align="center">
     <img width="50%" src="./readme.images/lib-logos.png">
 </p>
 
 ## 3.4. library-cyberark-Others-v1
-- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Others-v1.xml  
+- Library URL: https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Others-v1.xml  
 
 <p align="center">
     <img width="50%" src="./readme.images/lib-others.png">
 </p>
 
 ## 3.5. library-cyberark-Flow-v2
-- Library URL: https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Flow-v2.xml
+- Library URL: https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Flow-v2.xml
 
 <p align="center">
     <img width="50%" src="./readme.images/lib-flows.png">

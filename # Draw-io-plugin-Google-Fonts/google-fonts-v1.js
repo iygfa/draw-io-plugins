@@ -10,7 +10,7 @@ function appendStyle(styles) {
   document.getElementsByTagName("head")[0].appendChild(css);
 }
 
-fetch('https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts.css?maxAge=10')
+fetch('https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Google-Fonts/google-fonts.css?maxAge=10')
   .then(response => response.text())
   .then((data) => {
         appendStyle(data);

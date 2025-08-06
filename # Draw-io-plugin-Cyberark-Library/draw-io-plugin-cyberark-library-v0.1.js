@@ -52,19 +52,19 @@ Draw.loadPlugin(function(ui) {
     // Adds actions
     ui.actions.addAction('lib-cyberark', function() {
 
-        var url = 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Flow-v2.xml';
+        var url = 'https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Flow-v2.xml';
         LoadNewLibrary(url);
 
-        var url = 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Others-v1.xml';
+        var url = 'https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Others-v1.xml';
         LoadNewLibrary(url);
 
-        var url = 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Logos-v1.xml';
+        var url = 'https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Logos-v1.xml';
         LoadNewLibrary(url);
 
-        var url = 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Levels-v1.xml';
+        var url = 'https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Levels-v1.xml';
         LoadNewLibrary(url);
 
-        var url = 'https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Components-v1.xml';
+        var url = 'https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Library/library-cyberark-Components-v1.xml';
         LoadNewLibrary(url);
 
     }, null, null, 'v1.0');

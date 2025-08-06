@@ -11,7 +11,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FLevels%2Fdefender.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="61" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Levels/defender.svg?sanitize=true" x="0.00" y="0.00" w="61" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_guardian" w="61" h="66" aspect="variable">
@@ -26,7 +26,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FLevels%2Fguardian.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="61" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Levels/guardian.svg?sanitize=true" x="0.00" y="0.00" w="61" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_sentry" w="61" h="66" aspect="variable">
@@ -41,7 +41,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FLevels%2Fsentry.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="61" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Levels/sentry.svg?sanitize=true" x="0.00" y="0.00" w="61" h="66"/>
 		</foreground>
 	</shape>
 	<shape name="ca_icons_trustee" w="61" h="66" aspect="variable">
@@ -56,7 +56,7 @@
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCoolZeroNL%2Fdraw-io-plugins%2Fmaster%2F%2523%2520Draw-io-plugin-Cyberark-Icons%2Fcyberark.images%2FLevels%2Ftrustee.svg%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="61" h="66"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%2523%2520Draw-io-plugin-Cyberark-Icons/cyberark.images/Levels/trustee.svg?sanitize=true" x="0.00" y="0.00" w="61" h="66"/>
 		</foreground>
 	</shape>
 </shapes>

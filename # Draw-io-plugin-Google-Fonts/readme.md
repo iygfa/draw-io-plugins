@@ -21,7 +21,7 @@
 # 2. Usage:
 
 ## 2.1. Draw.io 
-- Plugin URL: https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
+- Plugin URL: https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Google-Fonts/google-fonts-v1.js?maxAge=10
 
 # 3. Update Google Fonts files ?
 

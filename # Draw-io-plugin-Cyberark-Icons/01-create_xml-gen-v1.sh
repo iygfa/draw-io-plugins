@@ -18,7 +18,7 @@ do
 
 cat >>$plugin_filename <<EOL
     // Adds custom sidebar entry
-    ui.sidebar.addStencilPalette('flowchart', 'Cyberark Icons ${folder}', 'https://yacdn.org/serve/https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/${filename}?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
+    ui.sidebar.addStencilPalette('flowchart', 'Cyberark Icons ${folder}', 'https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/%23%20Draw-io-plugin-Cyberark-Icons/${filename}?maxAge=10', ';fillColor=#ffffff;strokeColor=#000000;strokeWidth=2');
 
     // Collapses default sidebar entry and inserts this before
     var c = ui.sidebar.container;
@@ -40,8 +40,9 @@ EOL
 
 	# do something with $line here
 	item=`basename $line .svg`
-	url=`urlencode https://raw.githubusercontent.com/CoolZeroNL/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/$folder/$line`
-	# 
+	url=`urlencode https://raw.githubusercontent.com/iygfa/draw-io-plugins/master/%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/$folder/$line`
+	imgfile="%23%20Draw-io-plugin-Cyberark-Icons/cyberark.images/${folder}/${line}"
+	#
 	#    label=$(basename $(dirname $line))
 
 	# echo $item
@@ -62,7 +63,7 @@ cat >>$filename <<EOL
 			<constraint x="0.500" y="1.000" perimeter="0" name="bottom-center"/>
 		</connections>
 		<foreground>
-			<image src="https://jsonp.afeld.me/?url=${url}%3Fsanitize%3Dtrue" x="0.00" y="0.00" w="${width}" h="${height}"/>
+			<image src="https://cdn.jsdelivr.net/gh/iygfa/draw-io-plugins@master/${imgfile}?sanitize=true" x="0.00" y="0.00" w="${width}" h="${height}"/>
 		</foreground>
 	</shape>
 EOL
